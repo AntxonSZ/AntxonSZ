@@ -9,8 +9,8 @@
 - :nerd_face: Tengo la capacidad de resolver los problemas con buena `Persistencia` y `Creatividad`.
 - ⚛️: Me gusta trabajar en equipo y tener una comunicación clave, adaptandome al entorno que se presente.
 - 🤔: Me gusta capacitarme continuamente de forma autodidacta, tener un dominio total de lo que realizo y guiar a otros.
-<br>
-✅ En general me considero una persona paciente, responsable y curiosa, ansioso de llegar a laborar en la industria de la Tecnológia, asumir responsabilidades que pongan a prueba mis capacidades y habilidades como profesional de un área.
+
+
 
 ###
 ## 🛠️ My Skills
