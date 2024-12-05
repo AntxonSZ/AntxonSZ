@@ -15,8 +15,7 @@
 ## 🛠️ My Skills
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-<p align="center"> Manejo lenguajes de programación como Python y JavaScript ya que han sido claves para las áreas en las que me estoy especializando, he realizado diferentes proyectos por mi cuenta, los entornos en donde aprendo seguridad son controlados y regularmente en local, no suelo compartir los programas de red team 🔴 ya que podria ser peligroso si los utilizan personas con intenciones criminales, he realizado simulaciones de auditorias asi como encontrar vulnerabilidades ⚠️ de red, software y humanas. Por la parte de web he contribuido a proyectos medianos de lado front-end, realizado páginas y sitios web, estos con frameworks que estan presentes en la industria 💯.
-Algunos destacables son... 〽️</p>
+<p align="center"> Manejo lenguajes de programación como Python y JavaScript ya que han sido claves para las áreas en las que me estoy especializando, he realizado diferentes proyectos por mi cuenta, los entornos en donde aprendo seguridad son controlados y regularmente en local, he realizado simulaciones de auditorias asi como encontrar vulnerabilidades ⚠️ de red, software y humanas. Por la parte de web he contribuido a proyectos medianos de lado front-end, realizado páginas y sitios web, estos con frameworks que estan presentes en la industria 💯〽️</p>
 
 </div>
 <!--tech stack icons-->
@@ -29,7 +28,7 @@ Algunos destacables son... 〽️</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--INFORMACION DE SEGURIDAD-->
-<p align="center">🆘 🆘He destacado por desplegar malware exitoso, crear archivos que infecten sistemas operativos windows, asi como manejar software de terceros para un mejor escaneo de vulnerabilidades, operar troyanos para la infección de dispositivos android, además de otras prácticas que impliquen ataque 🚫, ⚠️ ⚠️ TODO CON LABORATORIOS LOCALES Y CON FINES EDUCATIVOS ⚠️ ⚠️ proximamente desplegar ransomware. </p>
+<p align="center"></p>
 
 | Prácticas en Hack The Box | Creación de Scripts |
 | ----------- | ----------- |
