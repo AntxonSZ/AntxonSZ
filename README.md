@@ -5,7 +5,6 @@
 - :school: Soy `estudiante` perteneciente al [Tecnológico Nacioal de México](https://zongolica.tecnm.mx/).
 - 💻 Me desempeño como `desarrollador web ` freelance.
 - :technologist: Además soy un apasionado de la `seguridad informática` desempeñandome en 🔴 red team y 🔵 blue team.
-- 🏆 Soy un programador que realiza un trabajo guiado de `Clean code`.
 - :nerd_face: Tengo la capacidad de resolver los problemas con buena `Persistencia` y `Creatividad`.
 - ⚛️: Me gusta trabajar en equipo y tener una comunicación clave, adaptandome al entorno que se presente.
 - 🤔: Me gusta capacitarme continuamente de forma autodidacta, tener un dominio total de lo que realizo y guiar a otros.
