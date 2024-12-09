@@ -2,7 +2,7 @@
 	
 ## <picture align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture> Sobre mi... :octocat:<br>
 
-- :school: Soy `estudiante` perteneciente al [Tecnológico Nacioal de México](https://zongolica.tecnm.mx/).
+- :school: Soy `estudiante` perteneciente al [Tecnológico Nacional de México](https://zongolica.tecnm.mx/).
 - 💻 Me desempeño como `desarrollador web ` freelance.
 - :technologist: Además soy un apasionado de la `seguridad informática` desempeñandome en 🔴 red team y 🔵 blue team.
 - :nerd_face: Tengo la capacidad de resolver los problemas con buena `Persistencia` y `Creatividad`.
