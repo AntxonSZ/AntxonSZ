@@ -2,12 +2,12 @@
 	
 ## <picture align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture> Sobre mi... :octocat:<br>
 
-- :school: Soy `estudiante` perteneciente al [Tecnológico Nacional de México](https://zongolica.tecnm.mx/).
-- 💻 Actualmente me desempeño como `desarrollador web` y estoy en trabajo constante para mejorar habilidades de `Full Stack` .
+- :school: Soy `Ing. en Sistemas Computacionales` perteneciente al [Tecnológico Nacional de México](https://zongolica.tecnm.mx/).
+- 💻 Actualmente sigo en constante crecimiento como `desarrollador web` y `Ciberseguridad` cada dia mejorando mis habilidades.
 - :nerd_face: Tengo la capacidad de resolver los problemas con buena `Persistencia` y `Creatividad`.
 - ⚛️: Me gusta trabajar en equipo y tener una comunicación clave, adaptandome al entorno que se presente.
-- :technologist: Además soy un apasionado de la `seguridad informática`
-- 🤔: Me gusta capacitarme continuamente de forma autodidacta, tener un dominio total de lo que realizo y guiar a otros.
+- :technologist: Además soy un apasionado de aprender de forma `autodidacta`
+- 🤔: Me gusta capacitarme continuamente, tener un dominio total de lo que realizo y guiar a otros.
 
 
 
@@ -15,7 +15,7 @@
 ## 🛠️ My Skills
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-<p align="center"> Manejo lenguajes de programación como Python, JavaScript y SQL, ya que han sido claves para las áreas en las que me estoy especializando, he realizado diferentes proyectos por mi cuenta, los entornos en donde aprendo seguridad son controlados y regularmente en local. Por la parte de web he contribuido a proyectos medianos de lado front-end, realizado páginas y sitios web, estos con frameworks que estan presentes en la industria, algunos de ellos son Ract y Astro 💯〽️</p>
+<p align="center"> Manejo lenguajes de programación nivel básico por ahora como Python, JavaScript y SQL, ya que han sido claves para las áreas en las que me estoy especializando, he realizado diferentes proyectos por mi cuenta, los entornos en donde aprendo seguridad son controlados y regularmente en local. Por la parte de web he contribuido a proyectos medianos de lado front-end, realizado páginas y sitios web, estos con frameworks que estan presentes en la industria, algunos de ellos son Ract y Astro 💯〽️</p>
 
 </div>
 <!--tech stack icons-->
